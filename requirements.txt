@@ -1,0 +1,8 @@
+gradio
+pandas
+numpy
+plotly
+scikit-learn
+scipy
+statsmodels
+reportlab
