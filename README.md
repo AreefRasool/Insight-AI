@@ -89,12 +89,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The dashboard will launch locally in your browser with a shareable public link.
-
-> 💡 **Prefer Google Colab?** Just open a new notebook, paste the contents of `app.py` into a cell, and run it — the first line installs all dependencies automatically.
-
----
-
 ## 🧠 How It Works
 
 1. Upload any CSV file through the Dashboard page.
